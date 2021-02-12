@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*Shrimps
+*Rice
+  *with shrimps
+  *with cheese
+  *with shoyu
